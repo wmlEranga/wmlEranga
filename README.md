@@ -3,7 +3,12 @@
 
 <a href="http://www.github.com/wmlEranga"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wmlEranga&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/wmlEranga" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmlEranga&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center">
+
+  [![Linkedin Badge](https://img.shields.io/badge/-pundima-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wmleranga/)]([[https://www.linkedin.com/in/pundima-lakshan-48726221b/](https://www.linkedin.com/in/wmleranga/)](https://www.linkedin.com/in/wmleranga/))
+  [![Gmail Badge](https://img.shields.io/badge/-wml.eranga@gmail.com-c14438?style=flat-round&logo=Gmail&logoColor=white&link=mailto:pundimal@gmail.com)](mailto:wml.eranga@gmail.com)
+</div>
+<br>
 
 <!--
 **wmlEranga/wmlEranga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
