@@ -1,11 +1,13 @@
-### Hi there 👋
 
-
-<a href="http://www.github.com/wmlEranga"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wmlEranga&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <div align="center">
-
-  [![Linkedin Badge](https://img.shields.io/badge/-pundima-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wmleranga/)]([[https://www.linkedin.com/in/pundima-lakshan-48726221b/](https://www.linkedin.com/in/wmleranga/)](https://www.linkedin.com/in/wmleranga/))
+<a href="http://www.github.com/wmlEranga"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wmlEranga&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</div>
+<hr/>
+  
+<div align="center">
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-wmlEranga-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wmleranga/)]([[https://www.linkedin.com/in/pundima-lakshan-48726221b/](https://www.linkedin.com/in/wmleranga/)](https://www.linkedin.com/in/wmleranga/))
   [![Gmail Badge](https://img.shields.io/badge/-wml.eranga@gmail.com-c14438?style=flat-round&logo=Gmail&logoColor=white&link=mailto:pundimal@gmail.com)](mailto:wml.eranga@gmail.com)
 </div>
 <br>
