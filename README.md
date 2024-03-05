@@ -7,8 +7,8 @@
   
 <div align="center">
   
-  [![Linkedin Badge](https://img.shields.io/badge/-wmlEranga-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wmleranga/)]([[[https://www.linkedin.com/in/wmleranga/-48726221b/](https://www.linkedin.com/in/wmleranga/)](https://www.linkedin.com/in/wmleranga/)](https://www.linkedin.com/in/wmleranga/))
-  [![Gmail Badge](https://img.shields.io/badge/-wml.eranga@gmail.com-c14438?style=flat-round&logo=Gmail&logoColor=white&link=mailto:pundimal@gmail.com)](mailto:wml.eranga@gmail.com)
+  [![Linkedin Badge](https://img.shields.io/badge/-wmlEranga-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wmleranga/)]([[[https://www.linkedin.com/in/wmleranga/-48726221b/)
+  [![Gmail Badge](https://img.shields.io/badge/-wml.eranga@gmail.com-c14438?style=flat-round&logo=Gmail&logoColor=white&link=mailto:wml.eranga@gmail.com)](mailto:wml.eranga@gmail.com)
 </div>
 <br>
 
